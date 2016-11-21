@@ -3302,7 +3302,7 @@
 <XPD:OBJ name="OwnedViews[83]" type="UMLGeneralizationView" guid="nZTid1ARNUSfjuIIiH1aQgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1077,233;1072,280;1072,428;412,428;412,364;429,338</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1079,233;1072,428;412,428;412,364;429,338</XPD:ATTR>
 <XPD:REF name="Model">tcL6B8RhT0asHPYrRY4IzwAA</XPD:REF>
 <XPD:REF name="Head">5U0cvmLMzk+t3xIsaHt6cgAA</XPD:REF>
 <XPD:REF name="Tail">3kCnhvK2NkCNi2yAtt648gAA</XPD:REF>
